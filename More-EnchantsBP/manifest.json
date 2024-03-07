@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds more enchant book",
+        "name": "More Enchant behavior pack",
+        "uuid": "a7499947-a900-48c6-84c0-9a37b000c918",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 20, 60 ]
+    },
+    "modules": [
+        {
+            "description": "More Enchant behavior pack",
+            "type": "data",
+            "uuid": "0dd68f9f-3a6f-41e7-befa-29a342770b7b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
